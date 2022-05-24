@@ -29,9 +29,7 @@ Install the dependencies
 Run the server
 `uvicorn main:app --reload`
 
-### Deploy
-
-#### Exemplo utilizando o heroku
+### Example using heroku
 Install the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)
 Create an application on heroku
 `heroku create -a example-app`
