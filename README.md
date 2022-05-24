@@ -29,7 +29,8 @@ The application consists of automating the acquisition of data and managing the 
 * Run the server
 `uvicorn main:app --reload`
 
-### Example using heroku
+### Deploy
+#### Example using heroku
 * Install the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)
 * Create an application on heroku
 `heroku create -a example-app`
